@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val auth = Firebase.auth
+        val arold: String = "asd"
     }
 }
